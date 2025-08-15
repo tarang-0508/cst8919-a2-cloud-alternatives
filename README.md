@@ -1,7 +1,6 @@
-# Cloud Service Comparisons – Azure vs AWS vs GCP  
-**Course:** CST8919 – DevOps Security and Compliance  
-**Author:** Tarang Savaj  
-**Date:** August 15, 2025  
+
+# CST8919 – DevOps Security and Compliance  
+## Cloud Service Comparisons – Azure vs AWS vs GCP  
 
 ---
 
